@@ -1,0 +1,12 @@
+[submodule "ParallelArraySummaryJava"]
+	path = ParallelArraySummaryJava
+	url = https://github.com/AndreLiberato/ParallelArraySummaryJava
+[submodule "ParallelArraySummaryGoLang"]
+	path = ParallelArraySummaryGoLang
+	url = https://github.com/AndreLiberato/ParallelArraySummaryGoLang
+[submodule "TaskExecutorJava"]
+	path = TaskExecutorJava
+	url = https://github.com/AndreLiberato/TaskExecutorJava
+[submodule "TaskExecutorGoLang"]
+	path = TaskExecutorGoLang
+	url = https://github.com/AndreLiberato/TaskExecutorGoLang
